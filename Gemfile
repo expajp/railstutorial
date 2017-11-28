@@ -23,6 +23,7 @@ gem 'uglifier', '>= 1.3.0'
 
 # Use jQuery
 gem 'jquery-rails'
+gem 'jquery-ui-rails'
 
 # Use Twitter Bootstrap
 gem 'bootstrap-sass', '3.3.7'
