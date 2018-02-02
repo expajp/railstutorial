@@ -2,7 +2,7 @@
   "name": "sample_app",
   "private": true,
   "dependencies": {
-    "jquery": "^1.9.1",
+    "jquery": "^3.0.0",
     "jquery-ui": "^1.11.4"
   }
 }
